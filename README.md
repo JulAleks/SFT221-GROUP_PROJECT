@@ -1,2 +1,2 @@
-# SFT221-GROUP_PROJECT
- This project was a collaborative effort completed as part of a software testing course, focusing on comprehensive testing and quality assurance.
+# SFT221_GROUP_PROJECT
+Repository of Group #5 For SFT221 project
