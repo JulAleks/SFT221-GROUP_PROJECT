@@ -1,0 +1,6 @@
+Each time, before starting to work on the project, pull the repository.
+After finishing your work, first commit and then push to Github.
+
+Don’t forget to do that :)
+
+
